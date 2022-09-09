@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=wbchief&theme=dark)
 <br>
 <br>
+🔭 I’m currently working on and learning:
+- NLP
+- Searching
+
 :trophy: Competition
   - 2022微信大数据挑战赛 Top9
   - 2022GAIIC 京东标题命名识别 复赛 Top5 
