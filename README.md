@@ -1,4 +1,4 @@
-### Hi here 👋
+### Hi, see here 👋
 
 <!--
 **wbchief/wbchief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
