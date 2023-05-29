@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi here 👋
 
 <!--
 **wbchief/wbchief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Searching
 
 :trophy: Competition
+  - 2022ATEC线上赛 rank 11
   - 2022微信大数据挑战赛 rank 9
   - 2022GAIIC 京东标题命名识别 rank 5 
   - 2021微信大数据挑战赛 rank 9
