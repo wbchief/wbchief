@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - Searching
 
 :trophy: Competition
-  - 2022ATEC线上赛赛道一 rank 11
-  - 2022微信大数据挑战赛 rank 9
-  - 2022GAIIC 京东标题命名识别 rank 5 
-  - 2021微信大数据挑战赛 rank 9
+  - 2023 GAIIC 医学影像诊断报告生成 复赛B榜rank 2，答辩 rank 3
+  - 2022 ATEC线上赛赛道一 rank 11
+  - 2022 微信大数据挑战赛 rank 9
+  - 2022 GAIIC 京东标题命名识别 rank 5 
+  - 2021 微信大数据挑战赛 rank 9
   - ....
