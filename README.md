@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 kaggle master
 
 :trophy: Competition
-  -🏅 2024 WSDM Cup - Multilingual Chatbot Arena 6/950 金牌
-  -🥈 2024 Eedi - Mining Misconceptions in Mathematics 17/1446 银牌
-  -🥈 2024 LMSYS - Chatbot Arena Human Preference Predictions 38/1849 银牌
-  -🥈 2024 The Learning Agency Lab - PII Data Detection 40/2048 银牌
-  -🏅 2023 厦门国际银行“数创金融杯”数据建模杯大赛 冠军
-  -🥉 2023 GAIIC 医学影像诊断报告生成 复赛B榜rank 2，答辩 rank 3
-  -🏅 2022 ATEC线下赛 冠军
+  - 🏅2024 WSDM Cup - Multilingual Chatbot Arena 6/950 金牌
+  - 🥈2024 Eedi - Mining Misconceptions in Mathematics 17/1446 银牌
+  - 🥈2024 LMSYS - Chatbot Arena Human Preference Predictions 38/1849 银牌
+  - 🥈2024 The Learning Agency Lab - PII Data Detection 40/2048 银牌
+  - 🏅2023 厦门国际银行“数创金融杯”数据建模杯大赛 冠军
+  - 🥉2023 GAIIC 医学影像诊断报告生成 复赛B榜rank 2，答辩 rank 3
+  - 🏅2022 ATEC线下赛 冠军
   - 2022 ATEC线上赛赛道一 rank 11
   - 2022 微信大数据挑战赛 rank 9
   - 2022 GAIIC 京东标题命名识别 rank 5 
