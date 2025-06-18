@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 kaggle master
 
 :trophy: Competition
+  - 🏅BirdCLEF+ 2025 11/2025 金牌
   - 🏅2024 WSDM Cup - Multilingual Chatbot Arena 6/950 金牌
   - 🥈2024 Eedi - Mining Misconceptions in Mathematics 17/1446 银牌
   - 🥈2024 LMSYS - Chatbot Arena Human Preference Predictions 38/1849 银牌
