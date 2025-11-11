@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 kaggle master
 
 :trophy: Competition
+  - 🏅2025 MAP - Charting Student Math Misunderstandings 2/1857 金牌
+  - 🏅2025 Make Data Count - Finding Data References 7/1282 金牌
   - 🏅BirdCLEF+ 2025 11/2025 金牌
   - 🏅2024 WSDM Cup - Multilingual Chatbot Arena 6/950 金牌
   - 🥈2024 Eedi - Mining Misconceptions in Mathematics 17/1446 银牌
