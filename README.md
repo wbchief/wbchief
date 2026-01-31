@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - NLP
 - Searching
 
-kaggle master
+Kaggle Grandmaster
 
 :trophy: Competition
+  - 🏅CSIRO - Image2Biomass Prediction 1/3802 金牌
   - 🏅2025 MAP - Charting Student Math Misunderstandings 2/1857 金牌
   - 🏅2025 Make Data Count - Finding Data References 7/1282 金牌
   - 🏅BirdCLEF+ 2025 11/2025 金牌
